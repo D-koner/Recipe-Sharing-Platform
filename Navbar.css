@@ -1,0 +1,14 @@
+nav {
+    background-color: #232323;
+    padding: 1rem;
+}
+
+nav a {
+    color: rgb(159, 240, 89);
+    text-decoration: none;
+    margin: 0 1rem;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}

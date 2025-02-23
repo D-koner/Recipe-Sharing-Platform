@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  nav {
+    background: #333;
+    color: white;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  .recipe-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+  }
+  
+  .recipe-card img {
+    width: 200px;
+    height: 150px;
+  }
+  

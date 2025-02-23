@@ -1,0 +1,6 @@
+.recipe-img {
+  width: 100%;         /* Full width of the card */
+  height: 200px;       /* Set a fixed height */
+  object-fit: cover;   /* Ensures images don't stretch */
+  border-radius: 5px;  /* Optional: rounded corners */
+}
